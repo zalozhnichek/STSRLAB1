@@ -6,6 +6,10 @@ class Animal {
   makeSound() {
     console.log(`${this.name}: sound`);
   }
+
+  newFeature() {
+    console.log('newFeature')
+  }
 }
 
 class Dog extends Animal {
