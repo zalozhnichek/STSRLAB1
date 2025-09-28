@@ -24,3 +24,4 @@ class Dog extends Animal {
 
 const animals = [new Dog("Шарик"), new Animal("Башмачок")];
 animals.forEach(x => x.makeSound())
+ihfhiawhdoiadphawdapdjoawjdahdiaphwdw
